@@ -1,2 +1,2 @@
 # numpy 
-with numpy learning to goal of tensorflow
+with numpy I will acheive the goal of learning tensorflow
